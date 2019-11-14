@@ -1,0 +1,45 @@
+
+
+	    Imagine you are  the famous tailor Noor-ul-Haq who stitches shirts for the president of India. One day Mr. Amitabh Bachchan comes to you with a full shirt size piece of clothes and puts an order with you for stitching the shirt. You discuss the requirements with Amitabh Bachchan. 
+		Here are the specific requirements:
+		Shirt should have half sleeves
+		It should be body fit
+		Should have a pocket inside the shirt to keep some emergency cash
+		Apart from these specific requirements, you yourself measure the size for him and note him down. He now asks when will you give the stitched shirt.
+
+
+        Solution:
+
+        IF they are working for 8hr a day exclusive of breaks:(32 hrs) 
+            
+            Requirements of the customer : 
+	            1) Material : Pure Cotton
+	            2) Size     : Chest 38 inches , Length : 26 inches , Sholder : 15.5inches,  
+	                          Sleeve Length : 7.5 inches(half sleeves) , Sleve open : 5.5
+	                          pocket size : 5 inches
+	            3) Time     : 4 Days
+
+	            Features required by the customer :
+		            Shirt should have half sleeves
+		            It should be body fit
+		            Should have a pocket inside the shirt to keep some emergency cash.
+
+		    Tasks :
+		     
+		     Ram & Rahim & Yeshu : Measuring and marking the measurments on the 
+		                           cloth.(Duration : 8hrs)
+		     Mahavir & arjun     : Stiching of the cloth (Duration : 12hrs)
+             
+             Ram & arjun & Mahavir working on the body fitting  (5hrs)
+
+             Yeshu and Rahim working on pocket and button integrations (3hrs)
+              
+             Me : Keeping a check on all the works done in appropriate time.
+                  And check for last minute changes before the product is up for delivery 
+
+
+
+              
+		            
+       
+            

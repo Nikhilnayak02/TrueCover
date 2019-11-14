@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxCountofChar",
+            "request": "launch",
+            "mainClass": "maxCountofChar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IndexOfstring",
+            "request": "launch",
+            "mainClass": "IndexOfstring"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseEachWord",
+            "request": "launch",
+            "mainClass": "ReverseEachWord"
+        }
+    ]
+}
